@@ -1,3 +1,7 @@
+* {
+  border: 2px solid red;
+}
+
 .para,
 .small-para {
   color: hsl(0, 100%, 50%);
